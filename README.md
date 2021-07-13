@@ -5,7 +5,7 @@ It is not reasonable to access a solution to some assessement prior to (re-)subm
 
 The essence of all work that you submit to the CS50 course **must be your own**. 
 
-# Speller
+# CS50's Speller
 In this exercise, the challenge was to implement the fastest spell checker that I could using a hash table function.
 
 # How it works
